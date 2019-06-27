@@ -1,0 +1,65 @@
+
+/* logo */
+.logo{
+    height: 50px !important;
+}
+
+
+/*------------    carousel    ----------------*/
+.carousel-margin
+{
+    margin-top: 55px !important;
+}
+/*------------- jumbotron CSS ---------*/
+.jumbo-margin{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.h2{
+    text-transform: capitalize;
+}
+.width-adjust {
+    width: 100%;
+}
+.footer-margin{
+    padding-top: 50px;
+}
+.h3{
+    text-transform: capitalize !important;
+    text-align: left;
+}
+
+
+/* --------- google map --------- */
+
+
+/* .map-container{
+    position:relative;
+    height: 100% !important;
+}
+.map-iframe{
+    height:100% !important;
+    width:100% !important;
+    -position:absolute;
+}
+.map-responsive{
+    overflow:hidden;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+ } */
+
+
+/*------------ footer ----------*/
+.icon{
+    font-size: 25px;
+}
+.social-tag{
+    display: inline-block;
+    margin-left: 15px;
+    color: white;
+}
